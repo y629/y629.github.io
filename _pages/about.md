@@ -1,17 +1,17 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>West 2-848,</p>
+    <p>Ito campus, Kyushu University,</p>
+    <p>744 Motooka, Nishi-ku, Fukuoka 819-0395 Japan</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +22,17 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a Ph.D. student in Graduate School of Information Science at Kyushu University, where I'm supervised by Prof. <a href="https://posl.ait.kyushu-u.ac.jp/~kamei/">Yasutaka Kamei</a> (<a href="https://posl.ait.kyushu-u.ac.jp/ja/" target="_blank">Our lab's web here</a>) .
+I received B.Eng. and M.Eng. degrees from the Kyushu University (2021 and 2023).
+I am supported by Japan Society for the Promotion of Science (JSPS) research fellowship (DC2) (2024.4-).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests are as follows:
+- Software Engineering for AI (SE4AI)
+- Quantum Software Engineering (QSE)
+- AI for Software Engineering (AI4SE)
+- Empirical Software Engineering

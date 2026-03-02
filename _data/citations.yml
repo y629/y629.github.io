@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-20'
+  last_updated: '2026-03-02'
 papers:
   QG5VVCcAAAAJ:08ZZubdj9fEC:
     citations: 0
@@ -38,6 +38,6 @@ papers:
     title: 'Why Agentic-PRs Get Rejected: A Comparative Study of Coding Agents'
     year: '2026'
   QG5VVCcAAAAJ:zYLM7Y9cAGgC:
-    citations: 15
+    citations: 16
     title: Do visual issue reports help developers fix bugs? a preliminary study of using videos and images to report issues on GitHub
     year: '2022'

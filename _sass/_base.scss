@@ -14,9 +14,13 @@ h6,
 em,
 div,
 li,
-span,
+span {
+  color: var(--global-text-color);
+}
+
 strong {
   color: var(--global-text-color);
+  font-weight: bold;
 }
 
 hr {
@@ -218,9 +222,9 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 567px) {
   .profile {
-    width: 30%;
+    width: 22%;
 
     .address {
       p {
@@ -717,6 +721,10 @@ footer.sticky-bottom {
 .publications {
   margin-top: 2rem;
 
+  .abbr {
+    max-width: 120px;
+  }
+
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
@@ -759,14 +767,15 @@ footer.sticky-bottom {
           display: inline-block;
           background-color: var(--global-theme-color);
           margin-bottom: 0.5rem;
-          color: var(--global-card-bg-color) !important;
+          color: #fff !important;
 
-          a {
-            color: white;
+          a,
+          div {
+            color: #fff !important;
+          }
 
-            &:hover {
-              text-decoration: none;
-            }
+          a:hover {
+            text-decoration: none;
           }
         }
 
@@ -774,10 +783,31 @@ footer.sticky-bottom {
           color: var(--global-theme-color) !important;
           border: 1px solid var(--global-theme-color);
         }
+
+        .topic-badges {
+          .topic-badge {
+            display: inline-block;
+            font-size: 0.65rem;
+            padding: 0.15em 0.5em;
+            margin-bottom: 0.25rem;
+            color: var(--global-theme-color) !important;
+            background-color: transparent !important;
+            border: 1px solid var(--global-theme-color);
+          }
+        }
       }
 
       .title {
         font-weight: bolder;
+      }
+
+      .note {
+        color: var(--global-theme-color);
+        font-style: italic;
+        border-left: none;
+        margin: 0;
+        padding: 0;
+        font-size: inherit;
       }
 
       .author {
@@ -793,6 +823,7 @@ footer.sticky-bottom {
         > em {
           border-bottom: 1px solid;
           font-style: normal;
+          font-weight: bold;
         }
 
         > span.more-authors {
@@ -950,8 +981,28 @@ html.transition *:after {
   transition-delay: 0 !important;
 }
 
+// About page customization
+.post.about {
+  max-width: 900px;
+  margin: 0 auto;
+
+  .clearfix {
+    p {
+      margin-bottom: 0.4rem;
+    }
+
+    li {
+      margin-bottom: 0.1rem;
+    }
+  }
+}
+
 // Extra Markdown style (post Customization)
 .post {
+  h2, h3, h4, h5, h6 {
+    margin-top: 1.5rem;
+  }
+
   .post-meta {
     color: var(--global-text-color-light);
     font-size: 0.875rem;

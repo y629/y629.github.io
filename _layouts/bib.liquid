@@ -25,6 +25,15 @@
           <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
         {% endif %}
       {% endif %}
+      {% if entry.topics %}
+        <div class="topic-badges mt-1">
+          {% assign topic_list = entry.topics | split: ',' %}
+          {% for topic in topic_list %}
+            {% assign t = topic | strip %}
+            <span class="badge topic-badge">{{ t }}</span>
+          {% endfor %}
+        </div>
+      {% endif %}
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
@@ -178,14 +187,30 @@
     {% if hook_exists == 'true' %}
       {% include hook/bib.liquid %}
     {% endif %}
+    {% if entry.type == 'article' %}
+      {% if entry.volume %}
+        {% capture entrytype %}{{ entrytype }}{{ ", vol. " }}{{ entry.volume }}{% endcapture %}
+      {% endif %}
+      {% if entry.number %}
+        {% capture entrytype %}{{ entrytype }}{{ ", no. " }}{{ entry.number }}{% endcapture %}
+      {% endif %}
+    {% endif %}
+    {% if entry.pages %}
+      {% capture entrytype %}{{ entrytype }}{{ ", pp. " }}{{ entry.pages }}{% endcapture %}
+    {% endif %}
     {% assign entrytype_text = entrytype | strip_html | strip %}
     {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
+    {% if entry.doi %}
+      {% capture periodical %}{{ periodical }}{{ ". DOI: " }}<a href="https://doi.org/{{ entry.doi }}">{{ entry.doi }}</a>{% endcapture %}
+    {% endif %}
     <div class="periodical">
       {{ periodical | strip }}
     </div>
-    <div class="periodical">
-      {{ entry.note | strip }}
-    </div>
+    {% if entry.note %}
+      <div class="note">
+        {{ entry.note | strip }}
+      </div>
+    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">

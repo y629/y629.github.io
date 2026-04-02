@@ -1,0 +1,21 @@
+# Conferences
+"SANER":
+  color: "#0076df"
+"APSEC":
+  color: "#0076df"
+"EASE":
+  color: "#0076df"
+"QRS-C":
+  color: "#0076df"
+"CAIN":
+  color: "#0076df"
+"ICPC":
+  color: "#0076df"
+
+# Journals
+"TOSEM":
+  color: "#009f06"
+  url: https://dl.acm.org/journal/tosem
+"IST":
+  color: "#009f06"
+  url: https://www.sciencedirect.com/journal/information-and-software-technology

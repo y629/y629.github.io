@@ -134,13 +134,13 @@
             {% endif %}
             <li class="nav-item active">
               {% if site.active_lang == site.default_lang %}
-                <a class="nav-link" {% static_href %}href="{{ site.baseurl }}/{{ other_language }}{{ page.url }}"{% endstatic_href %}>
+                <a class="nav-link" {% static_href %} href="{{ site.baseurl }}/{{ other_language }}{{ page.url }}" {% endstatic_href %}>
                   {% if other_language == 'ja' %}JP{% else %}{{ other_language | upcase }}{% endif %}
                 </a>
               {% else %}
                 {% assign lang_prefix = '/' | append: site.active_lang %}
                 {% assign stripped_url = page.url | remove_first: lang_prefix %}
-                <a class="nav-link" {% static_href %}href="{{ site.baseurl }}{{ stripped_url }}"{% endstatic_href %}>
+                <a class="nav-link" {% static_href %} href="{{ site.baseurl }}{{ stripped_url }}" {% endstatic_href %}>
                   {{ site.default_lang | upcase }}
                 </a>
               {% endif %}

@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: 
+description:
 nav: true
 nav_order: 2
 ---
@@ -15,6 +15,7 @@ For a full list including domestic (Japanese) publications, invited talks, award
 </p>
 
 <!-- Bibsearch Feature -->
+
 {% include bib_search.liquid %}
 
 <p class="venue-legend">

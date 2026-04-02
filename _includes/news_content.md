@@ -1,11 +1,13 @@
 <!-- News items — newest first -->
 
 ### 2026
+
 - [**2026/04**] Started as an **Assistant Professor** at the Graduate School of Information Science and Technology, Osaka University.
 - [**2026/03**] 🎊🎓 Received a **Ph.D. (Information Science)** from the Graduate School of Systems Information Science, Kyushu University.
 - [**2026/01**] Held the public defense of doctoral dissertation "Debugging AI-enabled and Quantum Software Systems."
 
 ### 2025
+
 - [**2025/12**] 🎉 Paper accepted at SANER 2026 ERA Track (Leveraging Mutation Analysis for LLM-based Repair of Quantum Programs).
 - [**2025/10**] Visited Prof. Gabriele Bavota at Università della Svizzera italiana (USI), Switzerland, to advance a collaborative research project.
 - [**2025/09**] Visited Prof. Ahmed E. Hassan and Dr. Hao Li at Queen's University, Canada, to advance a collaborative research project.
@@ -17,6 +19,7 @@
 - [**2025/03**] Presented at IEICE Technical Meeting on Software Science (SIGSS), Amami Oshima ([paper](https://ken.ieice.org/ken/paper/20250312QcJC/)).
 
 ### 2024
+
 - [**2024/12**] Gave a guest lecture at Fukui National College of Technology (my alma mater) on transferring to a university from NIT and research ([slides](/assets/pdf/20241219_3EI_石本.pdf)).
 - [**2024/12**] Attended APSEC 2024: (1) participated as a panelist at the co-located EEE-OSS workshop; (2) presented a paper at the main Technical Track.
 - [**2024/11**] 🏆 Attended the 31st Workshop on Foundations of Software Engineering (FOSE 2024) and presented a poster. Received the ポスター・デモ賞.
@@ -27,6 +30,7 @@
 - [**2024/03**] Gave a talk at the [joint event "Informatics for all by all" hosted by 8 universities](https://www.i.u-tokyo.ac.jp/events/joho-for-all2024/).
 
 ### 2023
+
 - [**2023/10–11**] Enrolled as a visiting student at Prof. Lei Ma's lab at the University of Tokyo.
 - [**2023/10**] Attended QRS 2023 and presented a paper (online).
 - [**2023/09**] Selected as a JSPS Research Fellow (DC2) for FY2024 (研究課題名：「機械学習システムの運用時における自動的な品質保証技術の確立」).
@@ -40,6 +44,7 @@
 - [**2023/03**] 🎊🎓 Received M.Eng. degree from Kyushu University.
 
 ### 2022
+
 - [**2022/11**] 🎉 Paper accepted at Information and Software Technology (IST) (PAFL: Probabilistic Automaton-based Fault Localization for Recurrent Neural Networks).
 - [**2022/10**] Co-authored a feature article in the IPSJ Magazine "Journal of Information Processing," November 2022 issue (Quality Assurance for AI: 5. Fault Localization and Automated Repair of Neural Network Models).
 - [**2022/09–10**] Visited Prof. Lei Ma's lab at the University of Alberta, Canada, for one month of collaborative research.
@@ -47,6 +52,7 @@
 - [**2022/06**] Presented a poster at the [5th MLSE Summer Camp (MLSE夏合宿2022)](https://mlxse.connpass.com/event/248383/).
 
 ### 2021
+
 - [**2021/11**] Presented a poster at the 2nd Workshop on Next-Generation Software Ecosystems.
 - [**2021/06**] 🏆 Received the [情報処理学会2021年度コンピュータサイエンス領域奨励賞](https://www.ipsj.or.jp/award/cs-awardee-2021.html).
 - [**2021/03**] 🎊🎓 Received B.Eng. degree from Kyushu University.

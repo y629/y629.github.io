@@ -1,7 +1,11 @@
 <div class="news">
   {% capture news_content %}{% include news_content.md %}{% endcapture %}
   {% if include.limit %}
-    <style>.news-limited h3 { display: none; }</style>
+    <style>
+      .news-limited h3 {
+        display: none;
+      }
+    </style>
     <div class="news-limited">
       {{ news_content | markdownify }}
     </div>

@@ -32,6 +32,9 @@ latest_posts:
 
 九州大学において，鵜林 尚靖 教授，亀井 靖高 教授（[POSL Lab](https://posl.ait.kyushu-u.ac.jp/)）の指導のもと，学士（工学，2021年），修士（工学，2023年），博士（情報科学，2026年）を取得．
 
+[<i class="fa-solid fa-link"></i> researchmap](https://researchmap.jp/yuta-ishimoto) <br>
+[<i class="fa-solid fa-link"></i> 楠本研究室](https://sdl.ist.osaka-u.ac.jp)
+
 ## 研究分野
 
 - **AIのためのソフトウェア工学 (SE4AI)：** 深層学習モデル（近年だと大規模言語モデル）を含んだソフトウェアシステムのバグ限局・自動修正，品質保証．

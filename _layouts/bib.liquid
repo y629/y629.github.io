@@ -205,6 +205,7 @@
     {% endif %}
     <div class="periodical">
       {{ periodical | strip }}
+      {% if entry.arxiv %}<a href="https://arxiv.org/abs/{{ entry.arxiv }}">arXiv:{{ entry.arxiv }}</a>{% endif %}
     </div>
     {% if entry.note %}
       <div class="note">

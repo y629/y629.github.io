@@ -11,7 +11,7 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-## 査読付き国際論文誌・会議論文
+## 論文
 
 {% include bib_search.liquid %}
 

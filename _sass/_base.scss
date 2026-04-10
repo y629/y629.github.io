@@ -858,8 +858,48 @@ footer.sticky-bottom {
         }
       }
 
+      .bib-links-row {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 0.5rem;
+
+        .links {
+          flex: 1 1 auto;
+          display: flex;
+          flex-wrap: wrap;
+          align-items: center;
+          gap: 0.35rem;
+          min-width: 0;
+        }
+
+        .badges {
+          margin-left: auto;
+          padding-bottom: 0;
+          flex-shrink: 0;
+          display: flex;
+          flex-wrap: wrap;
+          align-items: center;
+          gap: 0.25rem;
+        }
+      }
+
       .badges {
         padding-bottom: 0.5rem;
+        a.btn {
+          color: var(--global-text-color);
+          border: 1px solid var(--global-text-color);
+          padding-left: 1rem;
+          padding-right: 1rem;
+          padding-top: 0.25rem;
+          padding-bottom: 0.25rem;
+          margin-left: 0;
+
+          &:hover {
+            color: var(--global-theme-color);
+            border-color: var(--global-theme-color);
+          }
+        }
         span {
           display: inline-block;
           color: $black-color;

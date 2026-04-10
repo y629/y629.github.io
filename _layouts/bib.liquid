@@ -213,8 +213,9 @@
       </div>
     {% endif %}
 
-    <!-- Links/Buttons -->
-    <div class="links">
+    <!-- Links/Buttons + citation badges (same row; badges right-aligned) -->
+    <div class="bib-links-row">
+      <div class="links">
       {% if entry.award %}
         <a class="award btn btn-sm z-depth-0" role="button">
           {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awarded{% endif -%}
@@ -284,7 +285,7 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
-    </div>
+      </div>
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
       {% if entry.altmetric and entry.altmetric != 'false' %}
@@ -367,8 +368,8 @@
               {% endif %}
 
               <img
-                src="https://img.shields.io/badge/scholar-{{ citation_count }}-4285F4?logo=googlescholar&labelColor=beige"
-                alt="{{ citation_count }} Google Scholar citations"
+                src="https://img.shields.io/badge/cite-{{ citation_count }}-4285F4?logo=googlescholar&labelColor=beige"
+                alt="{{ citation_count }} citations"
               >
             </a>
           {% endif %}
@@ -387,6 +388,7 @@
         </div>
       {% endif %}
     {% endif %}
+    </div>
 
     {% if entry.award %}
       <!-- Hidden Award block -->

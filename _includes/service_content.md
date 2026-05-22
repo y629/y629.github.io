@@ -4,7 +4,9 @@
 1. The ACM International Conference on the Foundations of Software Engineering (FSE) 2025, Research Papers, Sub-reviewer.
 1. MSR Asia Summit 2023, Local Arrangement Chair.
 
-<!--  ## Journal Reviewer (International)-->
+## Journal Reviewer (International)
+
+1. ACM Transactions on Software Engineering and Methodology (TOSEM), Reviewer, 2026.
 
 ## Talk
 

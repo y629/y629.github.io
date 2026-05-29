@@ -49,7 +49,8 @@ nav_order: 2
 
 ## 国内研究会発表 (査読なし)
 
-1. 若松 大輝, <strong><u>石本 優太</u></strong>, Hao Li, 近藤 将成, Ahmed E. Hassan, 亀井 靖高, "コード生成におけるLLMの内部挙動の初期分析 —LLMカバレッジを用いた実証的評価—," 第221回ソフトウェア工学研究発表会, 2025-SE-221(X), pp.1-8, 2025年11月.
+1. Haruto Ohto, <strong><u>Yuta Ishimoto</u></strong>, Shinsuke Matsumoto, Kusumoto Shinji, "Reproducing Bugs4Q under Framework Evolution: Toward Supporting Quantum Program Migration," 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会), vol.XXX, no.XXX(SS), pp.XXX-XXX, 2026年7月.
+1. 若松 大輝, <strong><u>石本 優太</u></strong>, Hao Li, 近藤 将成, Ahmed E. Hassan, 亀井 靖高, "コード生成におけるLLMの内部挙動の初期分析 —LLMカバレッジを用いた実証的評価—," 第221回ソフトウェア工学研究発表会, 2025-SE-221(11), pp.1-8, 2025年11月.
 1. 中島 蒼太, <strong><u>石本 優太</u></strong>, 近藤 将成, Tao Xiao, 亀井 靖高, "大規模言語モデルを用いたSATDの分類体系の自動生成," 第220回ソフトウェア工学研究発表会, 2025-SE-220(15), pp.1-8, 2025年7月.
 1. <strong><u>石本 優太</u></strong>, "Repairs and Breaks Prediction for Deep Neural Networks," 第8回機械学習工学ワークショップ (MLSE夏合宿2025), 2025年7月.
 1. <strong><u>石本 優太</u></strong>, 近藤 将成, 鵜林 尚靖, 亀井 靖高, 勝部 瞭太, 佐藤 直人, 小川 秀人, "量子プログラムに対するミューテーションに基づく欠陥局所化," 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会), vol.124, no.429(SS), pp.194-199, 2025年3月.

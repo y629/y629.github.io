@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-12'
 papers:
   QG5VVCcAAAAJ:08ZZubdj9fEC:
-    citations: 0
+    citations: 1
     title: Leveraging Mutation Analysis for LLM-based Repair of Quantum Programs
     year: '2026'
   QG5VVCcAAAAJ:IjCSPb-OGe4C:

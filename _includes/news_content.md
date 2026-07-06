@@ -2,6 +2,7 @@
 
 ### 2026
 
+- [**2026/07**] 🎉 Paper accepted at ICSME 2026 (On the Reproducibility of Quantum Software Defect Datasets: A Case Study of Bugs4Q).
 - [**2026/04**] Started as an **Assistant Professor** at the Graduate School of Information Science and Technology, The University of Osaka.
 - [**2026/03**] 🎊🎓 Received a **Ph.D. (Information Science)** from the Graduate School of Systems Information Science, Kyushu University.
 - [**2026/01**] Held the public defense of doctoral dissertation "Debugging AI-enabled and Quantum Software Systems."

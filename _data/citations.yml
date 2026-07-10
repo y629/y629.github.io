@@ -1,9 +1,13 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-07-10'
 papers:
   QG5VVCcAAAAJ:08ZZubdj9fEC:
-    citations: 1
+    citations: 2
     title: Leveraging Mutation Analysis for LLM-based Repair of Quantum Programs
+    year: '2026'
+  QG5VVCcAAAAJ:8AbLer7MMksC:
+    citations: 0
+    title: 'On the Reproducibility of Quantum Software Defect Datasets: A Case Study of Bugs4Q'
     year: '2026'
   QG5VVCcAAAAJ:IjCSPb-OGe4C:
     citations: 16
@@ -14,7 +18,7 @@ papers:
     title: Uncertainty-aware metamorphic testing for robust object detection models
     year: '2023'
   QG5VVCcAAAAJ:OU6Ihb5iCvQC:
-    citations: 6
+    citations: 8
     title: An empirical study on self-admitted technical debt in quantum software
     year: '2024'
   QG5VVCcAAAAJ:f2IySw72cVMC:
@@ -26,11 +30,11 @@ papers:
     title: An Initial Analysis of Repair and Side-effect Prediction for Neural Networks
     year: '2023'
   QG5VVCcAAAAJ:p2g8aNsByqUC:
-    citations: 2
+    citations: 3
     title: Evaluating Mutation-based Fault Localization for Quantum Programs
     year: '2025'
   QG5VVCcAAAAJ:u9iWguZQMMsC:
-    citations: 0
+    citations: 1
     title: How Far Have LLMs Come Toward Automated SATD Taxonomy Construction?
     year: '2025'
   QG5VVCcAAAAJ:vRqMK49ujn8C:

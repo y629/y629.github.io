@@ -11,7 +11,7 @@ profile:
     <p>1-5 Yamadaoka, Suita, Osaka 565-0871, Japan</p>
     <p>Graduate School of IST, Bldg. B, 3F, Room B322</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+# selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:

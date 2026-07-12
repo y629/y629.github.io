@@ -12,7 +12,7 @@ profile:
     <p>大阪府吹田市山田丘1-5</p>
     <p>情報科学研究科B棟3階B322</p>
 
-selected_papers: true
+# selected_papers: true
 social: true
 
 announcements:

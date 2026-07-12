@@ -1,28 +1,55 @@
 import { highlightSearchTerm } from "./highlight-search-term.js";
 
 document.addEventListener("DOMContentLoaded", function () {
+  const selected = { topic: new Set(), type: new Set(), year: new Set() };
+
+  const entryRow = (li) => li.querySelector(":scope > .row");
+
+  const matchesChipFilters = (li) => {
+    const row = entryRow(li);
+    if (!row) return true;
+
+    if (selected.topic.size > 0) {
+      const topics = (row.dataset.pubTopics || "")
+        .split(",")
+        .map((t) => t.trim())
+        .filter(Boolean);
+      if (!topics.some((t) => selected.topic.has(t))) return false;
+    }
+
+    if (selected.type.size > 0 && !selected.type.has(row.dataset.pubType)) return false;
+
+    if (selected.year.size > 0 && !selected.year.has(row.dataset.pubYear)) return false;
+
+    return true;
+  };
+
   // actual bibsearch logic
   const filterItems = (searchTerm) => {
     document.querySelectorAll(".bibliography, .unloaded").forEach((element) => element.classList.remove("unloaded"));
 
     // highlight-search-term
     if (CSS.highlights) {
-      const nonMatchingElements = highlightSearchTerm({ search: searchTerm, selector: ".bibliography > li" });
-      if (nonMatchingElements == null) {
-        return;
-      }
+      const nonMatchingElements = highlightSearchTerm({ search: searchTerm, selector: ".bibliography > li" }) || [];
       nonMatchingElements.forEach((element) => {
         element.classList.add("unloaded");
       });
-    } else {
+    } else if (searchTerm) {
       // Simply add unloaded class to all non-matching items if Browser does not support CSS highlights
-      document.querySelectorAll(".bibliography > li").forEach((element, index) => {
+      document.querySelectorAll(".bibliography > li").forEach((element) => {
         const text = element.innerText.toLowerCase();
         if (text.indexOf(searchTerm) == -1) {
           element.classList.add("unloaded");
         }
       });
     }
+
+    // chip-based filters (topic / type / year)
+    document.querySelectorAll(".bibliography > li").forEach((li) => {
+      if (!matchesChipFilters(li)) {
+        li.classList.add("unloaded");
+      }
+    });
 
     document.querySelectorAll("h2.bibliography").forEach(function (element) {
       let iterator = element.nextElementSibling; // get next sibling element after h2, which can be h3 or ol
@@ -50,18 +77,89 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   };
 
+  const applyFilters = () => {
+    const searchTerm = document.getElementById("bibsearch").value.toLowerCase();
+    filterItems(searchTerm);
+  };
+
+  const buildFilterChips = () => {
+    const container = document.getElementById("bib-filters");
+    if (!container) return;
+
+    const topics = new Set();
+    const types = new Set();
+    const years = new Set();
+
+    document.querySelectorAll(".bibliography > li > .row").forEach((row) => {
+      (row.dataset.pubTopics || "")
+        .split(",")
+        .map((t) => t.trim())
+        .filter(Boolean)
+        .forEach((t) => topics.add(t));
+      if (row.dataset.pubType) types.add(row.dataset.pubType);
+      if (row.dataset.pubYear) years.add(row.dataset.pubYear);
+    });
+
+    const typeLabels = {
+      conference: container.dataset.labelConference || "Conference",
+      journal: container.dataset.labelJournal || "Journal",
+    };
+
+    const buildGroup = (title, values, kind, labelFn) => {
+      if (values.length === 0) return;
+
+      const group = document.createElement("div");
+      group.className = "bib-filter-group";
+
+      const heading = document.createElement("span");
+      heading.className = "bib-filter-group-label";
+      heading.textContent = title;
+      group.appendChild(heading);
+
+      values.forEach((value) => {
+        const chip = document.createElement("button");
+        chip.type = "button";
+        chip.className = "bib-filter-chip";
+        chip.textContent = labelFn ? labelFn(value) : value;
+        chip.addEventListener("click", () => {
+          if (selected[kind].has(value)) {
+            selected[kind].delete(value);
+            chip.classList.remove("active");
+          } else {
+            selected[kind].add(value);
+            chip.classList.add("active");
+          }
+          applyFilters();
+        });
+        group.appendChild(chip);
+      });
+
+      container.appendChild(group);
+    };
+
+    buildGroup(container.dataset.labelTopic || "Topic", Array.from(topics).sort(), "topic");
+    buildGroup(
+      container.dataset.labelType || "Type",
+      Array.from(types).sort(),
+      "type",
+      (value) => typeLabels[value] || value,
+    );
+    buildGroup(container.dataset.labelYear || "Year", Array.from(years).sort().reverse(), "year");
+  };
+
   const updateInputField = () => {
     const hashValue = decodeURIComponent(window.location.hash.substring(1)); // Remove the '#' character
     document.getElementById("bibsearch").value = hashValue;
-    filterItems(hashValue);
+    filterItems(hashValue.toLowerCase());
   };
+
+  buildFilterChips();
 
   // Sensitive search. Only start searching if there's been no input for 300 ms
   let timeoutId;
   document.getElementById("bibsearch").addEventListener("input", function () {
     clearTimeout(timeoutId); // Clear the previous timeout
-    const searchTerm = this.value.toLowerCase();
-    timeoutId = setTimeout(filterItems(searchTerm), 300);
+    timeoutId = setTimeout(applyFilters, 300);
   });
 
   window.addEventListener("hashchange", updateInputField); // Update the filter when the hash changes

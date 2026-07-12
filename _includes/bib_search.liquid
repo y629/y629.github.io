@@ -1,4 +1,13 @@
 {% if site.bib_search %}
   <script src="{{ '/assets/js/bibsearch.js' | relative_url | bust_file_cache }}" type="module"></script>
-  <input type="text" id="bibsearch" spellcheck="false" autocomplete="off" class="search bibsearch-form-input" placeholder="Type to filter">
+  <input type="text" id="bibsearch" spellcheck="false" autocomplete="off" class="search bibsearch-form-input" placeholder="{{ include.placeholder | default: 'Type to filter' }}">
+  <div
+    id="bib-filters"
+    class="bib-filters"
+    data-label-topic="{{ include.label_topic | default: 'Topic' }}"
+    data-label-type="{{ include.label_type | default: 'Type' }}"
+    data-label-year="{{ include.label_year | default: 'Year' }}"
+    data-label-conference="{{ include.label_conference | default: 'Conference' }}"
+    data-label-journal="{{ include.label_journal | default: 'Journal' }}"
+  ></div>
 {% endif %}

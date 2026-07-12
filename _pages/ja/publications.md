@@ -13,7 +13,7 @@ nav_order: 2
 
 ## 論文
 
-{% include bib_search.liquid %}
+{% include bib_search.liquid placeholder="キーワードで絞り込み" label_topic="トピック" label_type="種別" label_year="年" label_conference="カンファレンス" label_journal="ジャーナル" %}
 
 <p class="venue-legend">
   <span class="badge rounded" style="background-color:#0076df;color:#fff;">CONF</span> カンファレンス&ensp;

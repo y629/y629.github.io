@@ -1,6 +1,20 @@
 ---
 ---
-<div class="row">
+{% assign filter_proceedings = 'inproceedings,incollection' | split: ',' %}
+{% assign filter_pub_type = '' %}
+{% if entry.type == 'article' %}
+  {% assign filter_pub_type = 'journal' %}
+{% elsif filter_proceedings contains entry.type %}
+  {% assign filter_pub_type = 'conference' %}
+{% endif %}
+{% assign filter_pub_topics = '' %}
+{% if entry.topics %}
+  {% assign filter_topic_list = entry.topics | split: ',' %}
+  {% for filter_topic in filter_topic_list %}
+    {% assign filter_pub_topics = filter_pub_topics | append: filter_topic | strip | append: ',' %}
+  {% endfor %}
+{% endif %}
+<div class="row" data-pub-type="{{ filter_pub_type }}" data-pub-topics="{{ filter_pub_topics }}" data-pub-year="{{ entry.year }}">
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}

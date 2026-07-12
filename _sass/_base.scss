@@ -1385,6 +1385,54 @@ ninja-keys::part(ninja-input-wrapper) {
   border-color: var(--global-theme-color) !important;
 }
 
+.bib-filters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  column-gap: 1.5rem;
+  row-gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+.bib-filter-group {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.bib-filter-group-label {
+  font-size: 0.8rem;
+  color: var(--global-text-color-light);
+  margin-right: 0.15rem;
+}
+
+.bib-filter-chip {
+  display: inline-block;
+  font-size: 0.75rem;
+  line-height: 1;
+  padding: 0.35em 0.7em;
+  border-radius: 1rem;
+  border: 1px solid var(--global-theme-color);
+  background-color: transparent;
+  color: var(--global-theme-color);
+  cursor: pointer;
+  transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
+}
+
+.bib-filter-chip:hover {
+  background-color: var(--global-divider-color);
+}
+
+.bib-filter-chip.active {
+  background-color: var(--global-theme-color);
+  color: #fff;
+}
+
+.venue-legend {
+  margin-top: 1.25rem;
+}
+
 .newsletter-form-button {
   background: var(--global-theme-color);
   color: var(--global-bg-color);

@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-07-20'
 papers:
   QG5VVCcAAAAJ:08ZZubdj9fEC:
     citations: 2
     title: Leveraging Mutation Analysis for LLM-based Repair of Quantum Programs
     year: '2026'
   QG5VVCcAAAAJ:8AbLer7MMksC:
-    citations: 0
+    citations: 1
     title: 'On the Reproducibility of Quantum Software Defect Datasets: A Case Study of Bugs4Q'
     year: '2026'
   QG5VVCcAAAAJ:IjCSPb-OGe4C:
@@ -14,15 +14,19 @@ papers:
     title: 'Pafl: Probabilistic automaton-based fault localization for recurrent neural networks'
     year: '2023'
   QG5VVCcAAAAJ:J_g5lzvAfSwC:
-    citations: 2
+    citations: 3
     title: Uncertainty-aware metamorphic testing for robust object detection models
     year: '2023'
+  QG5VVCcAAAAJ:LPZeul_q3PIC:
+    citations: 0
+    title: 'RepTran: Search-Based Repair of Transformer Models'
+    year: '2026'
   QG5VVCcAAAAJ:OU6Ihb5iCvQC:
     citations: 8
     title: An empirical study on self-admitted technical debt in quantum software
     year: '2024'
   QG5VVCcAAAAJ:f2IySw72cVMC:
-    citations: 2
+    citations: 3
     title: Repairs and Breaks Prediction for Deep Neural Networks
     year: '2025'
   QG5VVCcAAAAJ:hqOjcs7Dif8C:
@@ -38,7 +42,7 @@ papers:
     title: How Far Have LLMs Come Toward Automated SATD Taxonomy Construction?
     year: '2025'
   QG5VVCcAAAAJ:vRqMK49ujn8C:
-    citations: 1
+    citations: 3
     title: 'Why Agentic-PRs Get Rejected: A Comparative Study of Coding Agents'
     year: '2026'
   QG5VVCcAAAAJ:zYLM7Y9cAGgC:

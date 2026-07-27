@@ -1,5 +1,6 @@
 ## PC Member and Conference Reviewer (International)
 
+1. The 1st International Workshop on Trustworthy and Responsible aUtonomous SysTems (TRUST) 2026, co-located with the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE), Program Committee.
 1. The IEEE International Symposium on Software Reliability Engineering (ISSRE) 2025, Artifact Evaluation Committee (AEC).
 1. The ACM International Conference on the Foundations of Software Engineering (FSE) 2025, Research Papers, Sub-reviewer.
 1. MSR Asia Summit 2023, Local Arrangement Chair.

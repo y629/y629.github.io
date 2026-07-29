@@ -2,6 +2,7 @@
 
 ### 2026
 
+- [**2026/07**] 🎉 Paper accepted at ASE 2026 (How Well Do LLMs Generate Taxonomies in the SE Domain? A Multi-Perspective Evaluation Framework). Presentation in Munich, Germany 🇩🇪 in October. Congrats, Sota!
 - [**2026/07**] 🎉 Paper accepted at ISSRE 2026 Research Track (RepTran: Search-Based Repair of Transformer Models). Joint work with National Institute of Informatics (Paolo Arcaini, Fuyuki Ishikawa). Presentation in Limassol, Cyprus 🇨🇾 in October.
 - [**2026/07**] 🎉 Paper accepted at ICSME 2026 (On the Reproducibility of Quantum Software Defect Datasets: A Case Study of Bugs4Q). Presentation in Benevento, Italy 🇮🇹 in September. Congrats, Haruto!
 - [**2026/04**] Started as an **Assistant Professor** at the Graduate School of Information Science and Technology, The University of Osaka.

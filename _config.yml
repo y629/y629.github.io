@@ -344,6 +344,7 @@ filtered_bibtex_keywords:
     preview,
     selected,
     slides,
+    submission_history,
     supp,
     topics,
     video,

@@ -299,6 +299,9 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
+      {% if entry.submission_history %}
+        <a class="submission-history btn btn-sm z-depth-0" role="button">Submission History</a>
+      {% endif %}
       </div>
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
@@ -424,6 +427,13 @@
         {% highlight bibtex %}
         {{- entry.bibtex | hideCustomBibtex -}}
         {% endhighlight %}
+      </div>
+    {% endif %}
+
+    {% if entry.submission_history %}
+      <!-- Hidden submission history block -->
+      <div class="submission-history hidden">
+        <p>{{ entry.submission_history }}</p>
       </div>
     {% endif %}
 

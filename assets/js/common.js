@@ -4,16 +4,25 @@ $(document).ready(function () {
     $(this).closest(".row").find(".abstract.hidden").toggleClass("open");
     $(this).closest(".row").find(".award.hidden.open").toggleClass("open");
     $(this).closest(".row").find(".bibtex.hidden.open").toggleClass("open");
+    $(this).closest(".row").find(".submission-history.hidden.open").toggleClass("open");
   });
   $("a.award").click(function () {
     $(this).closest(".row").find(".abstract.hidden.open").toggleClass("open");
     $(this).closest(".row").find(".award.hidden").toggleClass("open");
     $(this).closest(".row").find(".bibtex.hidden.open").toggleClass("open");
+    $(this).closest(".row").find(".submission-history.hidden.open").toggleClass("open");
   });
   $("a.bibtex").click(function () {
     $(this).closest(".row").find(".abstract.hidden.open").toggleClass("open");
     $(this).closest(".row").find(".award.hidden.open").toggleClass("open");
     $(this).closest(".row").find(".bibtex.hidden").toggleClass("open");
+    $(this).closest(".row").find(".submission-history.hidden.open").toggleClass("open");
+  });
+  $("a.submission-history").click(function () {
+    $(this).closest(".row").find(".abstract.hidden.open").toggleClass("open");
+    $(this).closest(".row").find(".award.hidden.open").toggleClass("open");
+    $(this).closest(".row").find(".bibtex.hidden.open").toggleClass("open");
+    $(this).closest(".row").find(".submission-history.hidden").toggleClass("open");
   });
   $("a").removeClass("waves-effect waves-light");
 

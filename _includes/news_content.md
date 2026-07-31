@@ -2,6 +2,7 @@
 
 ### 2026
 
+- [**2026/07**] 🎉 Awarded a JSPS KAKENHI Grant-in-Aid for Research Activity Start-up (研究活動スタート支援) as Principal Investigator (研究課題名：「持続可能なソフトウェア開発支援に向けたローカルLLMの軽量化と推論高速化」).
 - [**2026/07**] 🎉 Paper accepted at ASE 2026 (How Well Do LLMs Generate Taxonomies in the SE Domain? A Multi-Perspective Evaluation Framework). Presentation in Munich, Germany 🇩🇪 in October. Congrats, Sota!
 - [**2026/07**] 🎉 Paper accepted at ISSRE 2026 Research Track (RepTran: Search-Based Repair of Transformer Models). Joint work with National Institute of Informatics (Paolo Arcaini, Fuyuki Ishikawa). Presentation in Limassol, Cyprus 🇨🇾 in October.
 - [**2026/07**] 🎉 Paper accepted at ICSME 2026 (On the Reproducibility of Quantum Software Defect Datasets: A Case Study of Bugs4Q). Presentation in Benevento, Italy 🇮🇹 in September. Congrats, Haruto!

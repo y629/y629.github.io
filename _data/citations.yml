@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-08-03'
 papers:
   QG5VVCcAAAAJ:08ZZubdj9fEC:
     citations: 2
@@ -27,7 +27,7 @@ papers:
     year: '2024'
   QG5VVCcAAAAJ:f2IySw72cVMC:
     citations: 3
-    title: Repairs and Breaks Prediction for Deep Neural Networks
+    title: Repairs and breaks prediction for deep neural networks
     year: '2025'
   QG5VVCcAAAAJ:hqOjcs7Dif8C:
     citations: 1
@@ -35,15 +35,15 @@ papers:
     year: '2023'
   QG5VVCcAAAAJ:p2g8aNsByqUC:
     citations: 3
-    title: Evaluating Mutation-based Fault Localization for Quantum Programs
+    title: Evaluating mutation-based fault localization for quantum programs
     year: '2025'
   QG5VVCcAAAAJ:u9iWguZQMMsC:
     citations: 1
     title: How Far Have LLMs Come Toward Automated SATD Taxonomy Construction?
     year: '2025'
   QG5VVCcAAAAJ:vRqMK49ujn8C:
-    citations: 3
-    title: 'Why Agentic-PRs Get Rejected: A Comparative Study of Coding Agents'
+    citations: 5
+    title: 'Why agentic-prs get rejected: A comparative study of coding agents'
     year: '2026'
   QG5VVCcAAAAJ:zYLM7Y9cAGgC:
     citations: 16

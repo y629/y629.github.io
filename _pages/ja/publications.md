@@ -50,10 +50,11 @@ nav_order: 2
 
 
 ## 招待講演
-
+1. <strong><u>Yuta Ishimoto</u></strong>, Masanari Kondo, Lei Ma, Naoyasu Ubayashi, Yasutaka Kamei, "Repairs and Breaks Prediction for Deep Neural Networks," トップコンファレンスセッション, ソフトウェアエンジニアリングシンポジウム2026 (SES2026), 2026年9月.
+1. <strong><u>Yuta Ishimoto</u></strong>, Masanari Kondo, Lei Ma, Naoyasu Ubayashi, Yasutaka Kamei, "Repairs and Breaks Prediction for Deep Neural Networks," 招待講演, 第25回情報科学技術フォーラム (FIT2026), 2026年9月.
 1. <strong><u>Yuta Ishimoto</u></strong>, Masanari Kondo, Lei Ma, Naoyasu Ubayashi, Yasutaka Kamei, "Repairs and Breaks Prediction for Deep Neural Networks," トップカンファレンス・トップ論文誌特別講演, 日本ソフトウェア科学会第42回大会 (JSSST2025), 2025年9月.
-2. <strong><u>Yuta Ishimoto</u></strong>, Masanari Kondo, Naoyasu Ubayashi, Yasutaka Kamei, "PAFL: Probabilistic Automaton-based Fault Localization for Recurrent Neural Networks," トップカンファレンス・トップ論文誌特別講演, 日本ソフトウェア科学会第40回大会 (JSSST2023), 2023年9月.
-3. <strong><u>Yuta Ishimoto</u></strong>, Masanari Kondo, Naoyasu Ubayashi, Yasutaka Kamei, "PAFL: Probabilistic Automaton-based Fault Localization for Recurrent Neural Networks," 招待講演, ソフトウェアエンジニアリングシンポジウム2023 (SES2023), 2023年8月.
+1. <strong><u>Yuta Ishimoto</u></strong>, Masanari Kondo, Naoyasu Ubayashi, Yasutaka Kamei, "PAFL: Probabilistic Automaton-based Fault Localization for Recurrent Neural Networks," トップカンファレンス・トップ論文誌特別講演, 日本ソフトウェア科学会第40回大会 (JSSST2023), 2023年9月.
+1. <strong><u>Yuta Ishimoto</u></strong>, Masanari Kondo, Naoyasu Ubayashi, Yasutaka Kamei, "PAFL: Probabilistic Automaton-based Fault Localization for Recurrent Neural Networks," 招待講演, ソフトウェアエンジニアリングシンポジウム2023 (SES2023), 2023年8月.
 
 
 

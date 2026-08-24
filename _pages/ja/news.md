@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "お知らせ"
+title: "ニュース"
 permalink: /news/
 nav: true
 nav_order: 5

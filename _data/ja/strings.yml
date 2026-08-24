@@ -113,8 +113,8 @@ months:
     october: 10月
     november: 11月
     december: 12月
-news: お知らせ
-no_news: お知らせはありません。
+news: ニュース
+no_news: ニュースはありません。
 no_posts: "記事はありません。"
 pagination:
   page: ページ
@@ -142,7 +142,7 @@ search:
     description: サイトをライトテーマに切り替える
     title: ライトテーマに切り替える
   navigation: ナビゲーション
-  news: お知らせ
+  news: ニュース
   placeholder: 検索キーワードを入力
   posts: 記事
   projects: 研究

@@ -52,7 +52,9 @@ layout: default
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">Recent News</a>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">
+          {% if site.active_lang == 'ja' %}お知らせ{% else %}Recent News{% endif %}
+        </a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}

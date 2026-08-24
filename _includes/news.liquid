@@ -1,5 +1,9 @@
 <div class="news">
-  {% capture news_content %}{% include news_content.md %}{% endcapture %}
+  {% if site.active_lang == 'ja' %}
+    {% capture news_content %}{% include news_content_ja.md %}{% endcapture %}
+  {% else %}
+    {% capture news_content %}{% include news_content.md %}{% endcapture %}
+  {% endif %}
   {% if include.limit %}
     <style>
       .news-limited h3 {

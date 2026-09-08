@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-31'
 papers:
   QG5VVCcAAAAJ:08ZZubdj9fEC:
     citations: 2
     title: Leveraging Mutation Analysis for LLM-based Repair of Quantum Programs
     year: '2026'
   QG5VVCcAAAAJ:8AbLer7MMksC:
-    citations: 1
+    citations: 2
     title: 'On the Reproducibility of Quantum Software Defect Datasets: A Case Study of Bugs4Q'
     year: '2026'
   QG5VVCcAAAAJ:IjCSPb-OGe4C:
@@ -38,7 +38,7 @@ papers:
     title: An Initial Analysis of Repair and Side-effect Prediction for Neural Networks
     year: '2023'
   QG5VVCcAAAAJ:p2g8aNsByqUC:
-    citations: 3
+    citations: 4
     title: Evaluating mutation-based fault localization for quantum programs
     year: '2025'
   QG5VVCcAAAAJ:u9iWguZQMMsC:
@@ -46,10 +46,10 @@ papers:
     title: How Far Have LLMs Come Toward Automated SATD Taxonomy Construction?
     year: '2025'
   QG5VVCcAAAAJ:vRqMK49ujn8C:
-    citations: 6
+    citations: 7
     title: 'Why agentic-prs get rejected: A comparative study of coding agents'
     year: '2026'
   QG5VVCcAAAAJ:zYLM7Y9cAGgC:
-    citations: 16
+    citations: 17
     title: Do visual issue reports help developers fix bugs? a preliminary study of using videos and images to report issues on GitHub
     year: '2022'

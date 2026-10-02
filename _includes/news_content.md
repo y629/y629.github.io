@@ -2,7 +2,9 @@
 
 ### 2026
 
+- [**2026/09**] 📨 Invited to serve on the Program Committee for the Research Papers track of the 20th IEEE International Conference on Software Testing, Verification and Validation (ICST 2027).
 - [**2026/09**] 🎉 Paper accepted at APSEC 2026 Technical Track (PreMaQ: Predicting Maintainability-Related Quality of LLM-Generated Code Before Generation). Presentation in Bali, Indonesia 🇮🇩 in December. Congrats, Taiki!
+- [**2026/07**] 📨 Invited to serve on the Program Committee for the 1st International Workshop on Trustworthy and Responsible aUtonomous SysTems (TRUST 2026), co-located with the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026).
 - [**2026/07**] 🎉 Awarded a JSPS KAKENHI Grant-in-Aid for Research Activity Start-up (研究活動スタート支援) as Principal Investigator (研究課題名：「持続可能なソフトウェア開発支援に向けたローカルLLMの軽量化と推論高速化」).
 - [**2026/07**] 🎉 Paper accepted at ASE 2026 (How Well Do LLMs Generate Taxonomies in the SE Domain? A Multi-Perspective Evaluation Framework). Presentation in Munich, Germany 🇩🇪 in October. Congrats, Sota!
 - [**2026/07**] 🎉 Paper accepted at ISSRE 2026 Research Track (RepTran: Search-Based Repair of Transformer Models). Joint work with National Institute of Informatics (Paolo Arcaini, Fuyuki Ishikawa). Presentation in Limassol, Cyprus 🇨🇾 in October.
@@ -17,6 +19,7 @@
 - [**2025/10**] Visited Prof. Gabriele Bavota at Università della Svizzera italiana (USI), Switzerland, to advance a collaborative research project.
 - [**2025/09**] Visited Prof. Ahmed E. Hassan and Dr. Hao Li at Queen's University, Canada, to advance a collaborative research project.
 - [**2025/09**] Presented at the Top Conference/Journal Special Session at the 40th Annual Conference of JSSST, Tokai University Shinagawa Campus.
+- [**2025/08**] 📨 Invited to serve on the Artifact Evaluation Committee (AEC) for the IEEE International Symposium on Software Reliability Engineering (ISSRE 2025).
 - [**2025/07**] Presented a previously published paper at MLSE Summer Camp 2025, Hakone.
 - [**2025/06**] Presented a paper at FSE 2025, Trondheim, Norway (Journal First Track).
 - [**2025/06**] Presented a paper at EASE 2025, Istanbul, Turkey (Short Papers, Emerging Results Track).

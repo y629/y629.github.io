@@ -2,7 +2,9 @@
 
 ### 2026
 
+- [**2026/09**] 📨 国際会議ICST 2027 Research Papers trackのプログラム委員として招待されました．
 - [**2026/09**] 🎉 論文「PreMaQ: Predicting Maintainability-Related Quality of LLM-Generated Code Before Generation」が国際会議APSEC 2026 Technical Trackに採択されました．12月にインドネシア・バリ 🇮🇩 で発表予定です．若松君，おめでとうございます！
+- [**2026/07**] 📨 国際会議ASE 2026併設の第1回ワークショップTRUST 2026（Trustworthy and Responsible aUtonomous SysTems）のプログラム委員として招待されました．
 - [**2026/07**] 🎉 研究代表者として，日本学術振興会 科学研究費助成事業 研究活動スタート支援（研究課題名：「持続可能なソフトウェア開発支援に向けたローカルLLMの軽量化と推論高速化」）に採択されました．
 - [**2026/07**] 🎉 論文「How Well Do LLMs Generate Taxonomies in the SE Domain? A Multi-Perspective Evaluation Framework」が国際会議ASE 2026に採択されました．10月にドイツ・ミュンヘン 🇩🇪 で発表予定です．中島君，おめでとうございます！
 - [**2026/07**] 🎉 論文「RepTran: Search-Based Repair of Transformer Models」が国際会議ISSRE 2026 Research Trackに採択されました．国立情報学研究所のPaolo Arcaini先生，石川冬樹先生との共同研究です．10月にキプロス・レメソス 🇨🇾 で発表予定です．
@@ -17,6 +19,7 @@
 - [**2025/10**] 共同研究の推進のため，スイス・Università della Svizzera italiana（USI）のGabriele Bavota教授を訪問しました．
 - [**2025/09**] 共同研究の推進のため，カナダ・Queen's UniversityのAhmed E. Hassan教授とHao Li博士を訪問しました．
 - [**2025/09**] 東海大学品川キャンパスで開催された日本ソフトウェア科学会第40回大会のトップカンファレンス・トップジャーナル採録論文セッションにて発表しました．
+- [**2025/08**] 📨 国際会議ISSRE 2025のArtifact Evaluation Committee（AEC）委員として招待されました．
 - [**2025/07**] 箱根で開催されたMLSE夏合宿2025にて，既発表論文を紹介しました．
 - [**2025/06**] ノルウェー・トロンハイムで開催された国際会議FSE 2025（Journal First Track）にて論文を発表しました．
 - [**2025/06**] トルコ・イスタンブールで開催された国際会議EASE 2025（Short Papers, Emerging Results Track）にて論文を発表しました．

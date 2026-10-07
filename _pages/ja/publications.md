@@ -83,7 +83,7 @@ nav_order: 2
 
 ## その他
 
-1. ISTランチセミナー #250 「AIソフトウェアと量子ソフトウェアのデバッグ」登壇, 2026年10月7日.
+1. 大阪大学情報科学研究科ランチセミナー #250 「AIソフトウェアと量子ソフトウェアのデバッグ」登壇, 2026年10月7日.
 2. [スキルアップAIキャンプ (AIソフトウェアの品質保証に関する動向 その2)](https://www.skillupai.com/skillupai-camp/240821/) 登壇, 2024年8月.
 3. [スキルアップAIキャンプ (AIソフトウェアの品質保証に関する動向)](https://www.skillupai.com/skillupai-camp/240508/) 登壇, 2024年5月.
 4. [8大学共同開催「情報学 for all by all」](https://www.i.u-tokyo.ac.jp/events/joho-for-all2024/) 登壇, 2024年3月.

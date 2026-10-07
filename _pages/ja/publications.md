@@ -83,8 +83,8 @@ nav_order: 2
 
 ## その他
 
-1. [スキルアップAIキャンプ (AIソフトウェアの品質保証に関する動向 その2)](https://www.skillupai.com/skillupai-camp/240821/) 登壇, 2024年8月.
-2. [スキルアップAIキャンプ (AIソフトウェアの品質保証に関する動向)](https://www.skillupai.com/skillupai-camp/240508/) 登壇, 2024年5月.
-3. [8大学共同開催「情報学 for all by all」](https://www.i.u-tokyo.ac.jp/events/joho-for-all2024/) 登壇, 2024年3月.
-4. <strong><u>石本 優太</u></strong>, 近藤 将成, 亀井 靖高, 鵜林 尚靖, "AI の品質保証：5. ニューラルネットワークモデルのバグ限局・自動修正技術," 情報処理, 63(11), e28-e33, 2022年10月. (情報処理学会誌 特集記事)
-
+1. ISTランチセミナー #250 「AIソフトウェアと量子ソフトウェアのデバッグ」登壇, 2026年10月7日.
+2. [スキルアップAIキャンプ (AIソフトウェアの品質保証に関する動向 その2)](https://www.skillupai.com/skillupai-camp/240821/) 登壇, 2024年8月.
+3. [スキルアップAIキャンプ (AIソフトウェアの品質保証に関する動向)](https://www.skillupai.com/skillupai-camp/240508/) 登壇, 2024年5月.
+4. [8大学共同開催「情報学 for all by all」](https://www.i.u-tokyo.ac.jp/events/joho-for-all2024/) 登壇, 2024年3月.
+5. <strong><u>石本 優太</u></strong>, 近藤 将成, 亀井 靖高, 鵜林 尚靖, "AI の品質保証：5. ニューラルネットワークモデルのバグ限局・自動修正技術," 情報処理, 63(11), e28-e33, 2022年10月. (情報処理学会誌 特集記事)

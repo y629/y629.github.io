@@ -9,6 +9,7 @@
 ## Journal Reviewer (International)
 
 1. ACM Transactions on Software Engineering and Methodology (TOSEM), Reviewer, 2026.
+1. IEICE Transactions on Information and Systems, Reviewer, 2026.
 
 ## Talk
 

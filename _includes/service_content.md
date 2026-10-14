@@ -1,5 +1,6 @@
-## PC Member and Conference Reviewer (International)
+## Conference and Workshop Service (International)
 
+1. The [4th International Workshop on the Art, Science, and Engineering of Quantum Programming (QP 2027)](https://2027.programmingconference.org/home/qp-2027), co-located with the international conference &lt;Programming&gt; 2027 in Kyoto, Japan, in March 2027, Organization Co-chair.
 1. The 20th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2027, Research Papers track, Program Committee.
 1. The 1st International Workshop on Trustworthy and Responsible aUtonomous SysTems (TRUST) 2026, co-located with the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE), Program Committee.
 1. The IEEE International Symposium on Software Reliability Engineering (ISSRE) 2025, Artifact Evaluation Committee (AEC).
@@ -18,6 +19,7 @@
 ## 国内会議等における運営委員・編集委員等
 
 <!-- 1. 日本ソフトウェア科学会 第34回ソフトウェア工学の基礎ワークショップ，出版委員長，2027．-->
+
 1. 電子情報通信学会 ソフトウェアサイエンス研究会，専門委員，2026.06 -- 2028.06．
 1. IPSJ/SIGSE ソフトウェアエンジニアリングシンポジウム2024 (SES2024)，サブレビュワー．
 

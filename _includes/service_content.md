@@ -2,11 +2,11 @@
 
 1. The [4th International Workshop on the Art, Science, and Engineering of Quantum Programming (QP 2027)](https://2027.programmingconference.org/home/qp-2027), co-located with the international conference &lt;Programming&gt; 2027 in Kyoto, Japan, in March 2027, Organization Co-chair.
 1. The [International Conference on Mining Software Repositories (MSR 2027)](https://2027.msrconf.org/committee/msr-2027-registered-reports-registered-reports---program-committee), Registered Reports track, Program Committee.
-1. The 20th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2027, Research Papers track, Program Committee.
-1. The 1st International Workshop on Trustworthy and Responsible aUtonomous SysTems (TRUST) 2026, co-located with the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE), Program Committee.
-1. The IEEE International Symposium on Software Reliability Engineering (ISSRE) 2025, Artifact Evaluation Committee (AEC).
-1. The ACM International Conference on the Foundations of Software Engineering (FSE) 2025, Research Papers, Sub-reviewer.
-1. MSR Asia Summit 2023, Local Arrangement Chair.
+1. The [20th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2027](https://conf.researchr.org/committee/icst-2027/icst-2027-research-papers-program-comittee), Research Papers track, Program Committee.
+1. The [1st International Workshop on Trustworthy and Responsible aUtonomous SysTems (TRUST) 2026](https://conf.researchr.org/committee/ase-2026/trust-2026-papers-program-committee), co-located with the 41st IEEE/ACM International Conference on Automated Software Engineering (ASE), Program Committee.
+1. The [IEEE International Symposium on Software Reliability Engineering (ISSRE) 2025](https://issre.github.io/2025/committee_artifact-evaluation-PC.html), Artifact Evaluation Committee (AEC).
+1. The [ACM International Conference on the Foundations of Software Engineering (FSE) 2025](https://conf.researchr.org/track/fse-2025/fse-2025-research-papers), Research Papers, Sub-reviewer.
+1. [MSR Asia Summit 2023](https://www.ipsj.or.jp/kenkyukai/report2023.html), Local Arrangement Chair.
 
 ## Journal Reviewer (International)
 

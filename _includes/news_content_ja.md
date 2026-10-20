@@ -2,6 +2,7 @@
 
 ### 2026
 
+- [**2026/10**] 📨 国際会議MSR 2027（Mining Software Repositories）の[Registered Reportsトラック](https://2027.msrconf.org/committee/msr-2027-registered-reports-registered-reports---program-committee)のプログラム委員として招待されました．
 - [**2026/10**] 📋 国際会議&lt;Programming&gt; 2027の併設ワークショップ[QP 2027（第4回International Workshop on the Art, Science, and Engineering of Quantum Programming）](https://2027.programmingconference.org/home/qp-2027)の**Organization Co-chair（共同運営委員長）**を務めます．2027年3月に京都で開催されます．
 - [**2026/09**] 📨 国際会議ICST 2027 Research Papers trackのプログラム委員として招待されました．
 - [**2026/09**] 🎉 論文「[PreMaQ: Predicting Maintainability-Related Quality of LLM-Generated Code Before Generation](https://arxiv.org/abs/2610.05858)」が国際会議APSEC 2026 Technical Trackに採択されました．12月にインドネシア・バリ 🇮🇩 で発表予定です．若松君，おめでとうございます！

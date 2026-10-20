@@ -2,6 +2,7 @@
 
 ### 2026
 
+- [**2026/10**] 📨 Invited to serve on the Program Committee for the [Registered Reports track](https://2027.msrconf.org/committee/msr-2027-registered-reports-registered-reports---program-committee) of the International Conference on Mining Software Repositories (MSR 2027).
 - [**2026/10**] 📋 I will serve as **Organization Co-chair** for the [4th International Workshop on the Art, Science, and Engineering of Quantum Programming (QP 2027)](https://2027.programmingconference.org/home/qp-2027), co-located with the international conference &lt;Programming&gt; 2027 in Kyoto, Japan, in March 2027.
 - [**2026/09**] 📨 Invited to serve on the Program Committee for the Research Papers track of the 20th IEEE International Conference on Software Testing, Verification and Validation (ICST 2027).
 - [**2026/09**] 🎉 Paper accepted at APSEC 2026 Technical Track ([PreMaQ: Predicting Maintainability-Related Quality of LLM-Generated Code Before Generation](https://arxiv.org/abs/2610.05858)). Presentation in Bali, Indonesia 🇮🇩 in December. Congrats, Taiki!

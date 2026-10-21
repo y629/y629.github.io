@@ -7,10 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-
-
-
-
 ## 論文
 
 {% include bib_search.liquid placeholder="キーワードで絞り込み" label_topic="トピック" label_type="種別" label_year="年" label_conference="カンファレンス" label_journal="ジャーナル" %}
@@ -26,8 +22,6 @@ nav_order: 2
 
 </div>
 
-
-
 ## 受賞
 
 1. [2025年度 卓越研究賞（SE研究会）](https://www.ipsj.or.jp/award/se-award2.html), 情報処理学会 ソフトウェア工学研究会 , 2025年9月.
@@ -36,8 +30,6 @@ nav_order: 2
 4. [コンピュータサイエンス領域奨励賞](https://www.ipsj.or.jp/award/cs-award-2021.html), 情報処理学会, 2021年6月.
 5. [学生研究賞](https://www.sigse.jp/award.html), 第207回ソフトウェア工学研究会, 2021年3月.
 6. 優秀学生賞, 情報処理学会 北陸支部, 2019年3月.
-
-
 
 ## 研究助成
 
@@ -48,16 +40,13 @@ nav_order: 2
 5. 九州大学 先導的人材育成フェローシップ事業 (情報・AI分野), 2023年4月〜2024年3月. [研究費: 50万円]
 6. 日本学生支援機構 第一種奨学金 特に優れた業績による返還免除 (半額免除), 2023年7月.
 
-
-
 ## 招待講演
+
 1. <strong><u>Yuta Ishimoto</u></strong>, Masanari Kondo, Lei Ma, Naoyasu Ubayashi, Yasutaka Kamei, "Repairs and Breaks Prediction for Deep Neural Networks," トップコンファレンスセッション, ソフトウェアエンジニアリングシンポジウム2026 (SES2026), 2026年9月.
 1. <strong><u>Yuta Ishimoto</u></strong>, Masanari Kondo, Lei Ma, Naoyasu Ubayashi, Yasutaka Kamei, "Repairs and Breaks Prediction for Deep Neural Networks," 招待講演, 第25回情報科学技術フォーラム (FIT2026), 2026年9月.
 1. <strong><u>Yuta Ishimoto</u></strong>, Masanari Kondo, Lei Ma, Naoyasu Ubayashi, Yasutaka Kamei, "Repairs and Breaks Prediction for Deep Neural Networks," トップカンファレンス・トップ論文誌特別講演, 日本ソフトウェア科学会第42回大会 (JSSST2025), 2025年9月.
 1. <strong><u>Yuta Ishimoto</u></strong>, Masanari Kondo, Naoyasu Ubayashi, Yasutaka Kamei, "PAFL: Probabilistic Automaton-based Fault Localization for Recurrent Neural Networks," トップカンファレンス・トップ論文誌特別講演, 日本ソフトウェア科学会第40回大会 (JSSST2023), 2023年9月.
 1. <strong><u>Yuta Ishimoto</u></strong>, Masanari Kondo, Naoyasu Ubayashi, Yasutaka Kamei, "PAFL: Probabilistic Automaton-based Fault Localization for Recurrent Neural Networks," 招待講演, ソフトウェアエンジニアリングシンポジウム2023 (SES2023), 2023年8月.
-
-
 
 ## 国内研究会発表 (査読なし)
 
@@ -78,8 +67,6 @@ nav_order: 2
 15. <strong><u>Yuta Ishimoto</u></strong>, Masanari Kondo, Naoyasu Ubayashi, Yasutaka Kamei, "抽象モデル上のn-gramに着目したRNNに対するFault Localization," 第5回機械学習工学研究会 (MLSE夏合宿2022), 2022年6月. (ポスター発表)
 16. 蔵元 宏樹, <strong><u>石本 優太</u></strong>, 新堂 風, 近藤 将成, 柏 祐太郎, 亀井 靖高, 鵜林 尚靖, "GitHubにおけるバグ報告等の動画および画像の活用実態に関する調査," 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会), vol.121, no.416(SS), pp.78-83, 2022年3月.
 17. <strong><u>石本 優太</u></strong>, 松井 健, 鵜林 尚靖, 亀井 靖高, "RNNの抽象化モデルに対するバグ限局とその評価," 第207回ソフトウェア工学研究発表会, 2021-SE-207(2), pp.1-8, 2021年3月. <span style="color: var(--global-highlight-color);">[学生研究賞]</span> <span style="color: var(--global-highlight-color);">[コンピュータサイエンス領域奨励賞]</span>
-
-
 
 ## その他
 

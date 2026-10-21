@@ -138,12 +138,7 @@ document.addEventListener("DOMContentLoaded", function () {
     };
 
     buildGroup(container.dataset.labelTopic || "Topic", Array.from(topics).sort(), "topic");
-    buildGroup(
-      container.dataset.labelType || "Type",
-      Array.from(types).sort(),
-      "type",
-      (value) => typeLabels[value] || value,
-    );
+    buildGroup(container.dataset.labelType || "Type", Array.from(types).sort(), "type", (value) => typeLabels[value] || value);
     buildGroup(container.dataset.labelYear || "Year", Array.from(years).sort().reverse(), "year");
   };
 

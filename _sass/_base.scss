@@ -1048,7 +1048,11 @@ html.transition *:after {
 
 // Extra Markdown style (post Customization)
 .post {
-  h2, h3, h4, h5, h6 {
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     margin-top: 1.5rem;
   }
 
@@ -1426,7 +1430,9 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: transparent;
   color: var(--global-theme-color);
   cursor: pointer;
-  transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
+  transition:
+    background-color 0.15s ease-in-out,
+    color 0.15s ease-in-out;
 }
 
 .bib-filter-chip:hover {

@@ -24,7 +24,7 @@ nav_order: 2
 
 ## 受賞
 
-1. [2025年度 卓越研究賞（SE研究会）](https://www.ipsj.or.jp/award/se-award2.html), 情報処理学会 ソフトウェア工学研究会 , 2025年9月. 対象論文：石本 優太 (九州大学), 近藤 将成 (九州大学), 馬 雷 (東京大学/アルバータ大学), 鵜林 尚靖 (早稲田大学), 亀井 靖高 (九州大学), **Repairs and Breaks Prediction for Deep Neural Networks**, ACM Transactions on Software Engineering and Methodology (TOSEM).
+1. [2025年度 卓越研究賞（SE研究会）](https://www.ipsj.or.jp/award/se-award2.html), 情報処理学会 ソフトウェア工学研究会 , 2025年9月. 対象論文：石本 優太 (九州大学), 近藤 将成 (九州大学), 馬 雷 (東京大学/アルバータ大学), 鵜林 尚靖 (早稲田大学), 亀井 靖高 (九州大学), "Repairs and Breaks Prediction for Deep Neural Networks," ACM Transactions on Software Engineering and Methodology (TOSEM).
 2. [ポスター・デモ賞](https://fose.jssst.or.jp/fose2024/), 第31回ソフトウェア工学の基礎ワークショップ (FOSE 2024), 2024年11月.
 3. [研究奨励賞](https://www.ieice.org/iss/ss/award.html), 令和4年度 電子情報通信学会 ソフトウェアサイエンス研究会, 2023年3月.
 4. [コンピュータサイエンス領域奨励賞](https://www.ipsj.or.jp/award/cs-award-2021.html), 情報処理学会, 2021年6月.

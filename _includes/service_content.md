@@ -12,6 +12,7 @@
 
 1. IEEE Transactions on Software Engineering (TSE), Reviewer, 2026.
 1. ACM Transactions on Software Engineering and Methodology (TOSEM), Reviewer, 2026.
+1. Journal of Systems and Software (JSS), Reviewer, 2026.
 1. IEICE Transactions on Information and Systems, Reviewer, 2026.
 
 ## Talk

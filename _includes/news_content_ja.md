@@ -2,6 +2,7 @@
 
 ### 2026
 
+- [**2026/11**] 11月2–5日に湘南国際村センターで開催された[NII湘南会議 No. 248「Diversity and Inclusion in the Era of Artificial Intelligence and Quantum Computing」](https://shonan.nii.ac.jp/seminars/248/)に参加しました．
 - [**2026/10**] 📨 国際会議MSR 2027（Mining Software Repositories）の[Registered Reportsトラック](https://2027.msrconf.org/committee/msr-2027-registered-reports-registered-reports---program-committee)のプログラム委員として招待されました．
 - [**2026/10**] 📋 国際会議&lt;Programming&gt; 2027の併設ワークショップ[QP 2027（第4回International Workshop on the Art, Science, and Engineering of Quantum Programming）](https://2027.programmingconference.org/home/qp-2027)の**Organization Co-chair（共同運営委員長）**を務めます．2027年3月に京都で開催されます．
 - [**2026/09**] 📨 国際会議ICST 2027 Research Papers trackのプログラム委員として招待されました．

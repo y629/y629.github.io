@@ -42,6 +42,7 @@ nav_order: 2
 
 ## 招待講演
 
+1. <strong><u>石本 優太</u></strong>, "Debugging AI-enabled and Quantum Software Systems," 博士論文速報, 第224回ソフトウェア工学研究発表会, 2026年11月.
 1. <strong><u>Yuta Ishimoto</u></strong>, Masanari Kondo, Lei Ma, Naoyasu Ubayashi, Yasutaka Kamei, "Repairs and Breaks Prediction for Deep Neural Networks," トップコンファレンスセッション, ソフトウェアエンジニアリングシンポジウム2026 (SES2026), 2026年9月.
 1. <strong><u>Yuta Ishimoto</u></strong>, Masanari Kondo, Lei Ma, Naoyasu Ubayashi, Yasutaka Kamei, "Repairs and Breaks Prediction for Deep Neural Networks," 招待講演, 第25回情報科学技術フォーラム (FIT2026), 2026年9月.
 1. <strong><u>Yuta Ishimoto</u></strong>, Masanari Kondo, Lei Ma, Naoyasu Ubayashi, Yasutaka Kamei, "Repairs and Breaks Prediction for Deep Neural Networks," トップカンファレンス・トップ論文誌特別講演, 日本ソフトウェア科学会第42回大会 (JSSST2025), 2025年9月.

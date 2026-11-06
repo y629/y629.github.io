@@ -46,4 +46,4 @@ latest_posts:
 - 2014.4 -- 2019.3 福井工業高等専門学校 電子情報工学科． 指導教員：下條 雅史 教授．
 - 2019.4 -- 2021.3 九州大学工学部 電気情報工学科． 学士（工学）． 指導教員：[鵜林 尚靖](https://posl.ait.kyushu-u.ac.jp/~ubayashi/index_jp.html) 教授．
 - 2021.4 -- 2023.3 九州大学大学院システム情報科学府 情報理工学専攻 修士課程． 修士（工学）． 指導教員：[鵜林 尚靖](https://posl.ait.kyushu-u.ac.jp/~ubayashi/index_jp.html) 教授．
-- 2023.4 -- 2026.3 同専攻 博士課程． 博士（情報科学）． 指導教員：[亀井 靖高](https://posl.ait.kyushu-u.ac.jp/~kamei) 教授．
+- 2023.4 -- 2026.3 同専攻 博士課程． 博士（情報科学）． 指導教員：[亀井 靖高](https://posl.ait.kyushu-u.ac.jp/~kamei) 教授． [[博士論文のリンク](https://catalog.lib.kyushu-u.ac.jp/opac_detail_md/?lang=0&amode=MD823&bibid=7443462)]

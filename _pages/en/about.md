@@ -29,7 +29,7 @@ latest_posts:
 
 Assistant Professor, [Software Design Laboratory](https://sdl.ist.osaka-u.ac.jp/), Department of Computer Science, [Graduate School of Information Science and Technology](https://www.ist.osaka-u.ac.jp/english/), The University of Osaka.
 
-I received my B.Eng. (2021), M.Eng. (2023), and Ph.D. in Information Science (2026) from Kyushu University, under the supervision of Prof. [Yasutaka Kamei](https://posl.ait.kyushu-u.ac.jp/~kamei/) ([POSL Lab](https://posl.ait.kyushu-u.ac.jp/)).
+I received my B.Eng. (2021), M.Eng. (2023), and Ph.D. in Information Science (2026) from Kyushu University, under the supervision of Prof. [Yasutaka Kamei](https://posl.ait.kyushu-u.ac.jp/~kamei/) ([POSL Lab](https://posl.ait.kyushu-u.ac.jp/)). [[Doctoral dissertation](https://catalog.lib.kyushu-u.ac.jp/opac_detail_md/?lang=0&amode=MD823&bibid=7443462)]
 
 ## Research Interests
 

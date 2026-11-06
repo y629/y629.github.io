@@ -36,3 +36,10 @@ I received my B.Eng. (2021), M.Eng. (2023), and Ph.D. in Information Science (20
 - **Software Engineering for AI (SE4AI):** Fault localization and automated repair of software systems involving deep learning models (including large language models), and quality assurance of ML systems.
 - **Quantum Software Engineering (QSE):** Fault localization and automated repair of quantum programs. Empirical studies of quantum software.
 - **AI for Software Engineering (AI4SE):** LLM-based program repair. Software engineering in the era of AI agents.
+
+## Professional Experience
+
+- 2023.9 -- 2023.10 Research Intern, Service Systems Innovation Center, Research & Development Group, Hitachi, Ltd.
+- 2023.10 -- 2023.11 Special Research Student, Graduate School of Information Science and Technology, The University of Tokyo. Supervisor: Associate Prof. Lei Ma.
+- 2024.4 -- 2026.3 JSPS Research Fellow (DC2), Kyushu University.
+- 2026.4 -- Present Assistant Professor, Software Design Laboratory, Department of Computer Science, Graduate School of Information Science and Technology, The University of Osaka.

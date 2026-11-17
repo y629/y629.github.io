@@ -1,6 +1,7 @@
 ## Conference and Workshop Service (International)
 
 1. The [4th International Workshop on the Art, Science, and Engineering of Quantum Programming (QP 2027)](https://2027.programmingconference.org/home/qp-2027), co-located with the international conference &lt;Programming&gt; 2027 in Kyoto, Japan, in March 2027, Organization Co-chair.
+1. The [International Workshop on Quantum Software Engineering (Q-SE 2027)](https://conf.researchr.org/committee/icse-2027/q-se-2027-papers-program-committee), co-located with the International Conference on Software Engineering (ICSE 2027), Program Committee.
 1. The [International Conference on Mining Software Repositories (MSR 2027)](https://2027.msrconf.org/committee/msr-2027-registered-reports-registered-reports---program-committee), Registered Reports track, Program Committee.
 1. The [20th IEEE International Conference on Software Testing, Verification and Validation (ICST) 2027](https://conf.researchr.org/committee/icst-2027/icst-2027-research-papers-program-comittee), Research Papers track, Program Committee.
 1. The [34th IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER 2027)](https://conf.researchr.org/track/saner-2027/saner-2027-registered-report-track), Registered Report (RR) track, Program Committee.
